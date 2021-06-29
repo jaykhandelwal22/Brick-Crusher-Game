@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Balls Of Steel/Scenes/Boot Strapper.unity
+  isLoaded: 1
+  isActive: 1
